@@ -1,5 +1,5 @@
 /********************************************************************************
- * MIT Java Wordnet Interface (JWI)
+ * MIT Java Wordnet Interface (JWI) 
  * Copyright (c) 2007-2008 Massachusetts Institute of Technology
  *
  * This is the non-commercial version of JWI.  This version may *not* be used
